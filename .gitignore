@@ -1,0 +1,51 @@
+# Build
+bin/
+obj/
+
+# VS Code / Visual Studio
+.vscode/
+.vs/
+*.user
+*.suo
+
+# NuGet
+*.nupkg
+packages/
+*.nuspec
+
+# Test / Coverage
+TestResults/
+*.coverage
+
+# Others
+*.DS_Store
+*.log
+*.orig
+
+# Build results
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.log
+
+# Visual Studio
+.vscode/
+*.vspscc
+*.vssscc
+.vs/
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+*.nuspec
+
+# Others
+*.DS_Store
+*.swp
+*.sln.docstates
+TestResults/
+*.coverage
+*.orig
